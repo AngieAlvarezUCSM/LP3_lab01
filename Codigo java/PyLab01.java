@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 
 public class PyLab01 {
@@ -29,3 +30,4 @@ public class PyLab01 {
             System.out.println("Ups perdiste");
     }
 }
+*/
